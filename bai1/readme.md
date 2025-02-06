@@ -23,3 +23,12 @@ in ra: 30techpython--
 chu thich tren mot dong (#)
 
 chu thich tren nhieu dong (""")
+
+In so thuc voi so luong chu so sau dau phay xac dinh
+
+vd a= 30.042009
+
+print("%.2f"%a)
+
+kq= 30.04s
+
